@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import socket
 
 network = '192.168.1'
