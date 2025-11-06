@@ -1,4 +1,4 @@
-#Pete Lenhart
+#Petrel
 
 #!/usr/bin/env python
 
