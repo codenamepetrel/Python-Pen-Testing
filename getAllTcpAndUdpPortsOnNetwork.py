@@ -1,4 +1,4 @@
-#Petrel
+#PL
 
 #!/usr/bin/env python
 
